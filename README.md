@@ -11,6 +11,7 @@ The project requirements and tasks to complete and knowledge to demonstrate all 
 
 
 ## Accomplishments
-- [ ] Building static html site that is hostable
-- [ ] Building a multipage html site with semantic anchors to other pages
-- [ ] Using semantic markup and structure to showcase content, sans CSS in a clear, readable fashion for reader
+- [x] Building static html site that is hostable
+- [x] Building a multipage html site with semantic anchors to other pages
+- [x] Using semantic markup and structure to showcase content, sans CSS in a clear, readable fashion for reader
+- [x] Satisfy project requirements given.
